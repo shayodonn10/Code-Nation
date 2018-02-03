@@ -1,0 +1,17 @@
+.W_A_V_E_Y{
+  font-family: 'Lato', sans-serif;
+  background: linear-gradient(to bottom right, #61363C, #29BCF7);
+  font-family: 'Lato', sans-serif;
+  text-align: center;
+  margin-top: 0px;
+  height: 100vh;
+  width: 100vw;
+}
+
+h1{
+  font-size: 100px;
+}
+
+p{
+  font-size: 50px;
+}
